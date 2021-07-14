@@ -193,4 +193,25 @@ function changeSlide(direction) {
 
 ```
 
+#### Programming Experience:
+___
+
+I’ve finished a couple of freelance projects and several projects in the course of training. Latest of them are: ...
+
+#### Education:
+___
+
+- NGMA (Nighniy Novgorod, Russia)
+- Youtube courses and video (Vladilen Minin, Ivan Petrichenko)
+- HTMLAcademy
+- Stepik
+- Orion Innovation Education Centre (Javascript)
+- The Rolling Scopes School (currently)
+
+#### English:
+___
+
+I studied at school in advanced English classes. After my schooling I got level-placed at the university. I practice a lot daily by reading and watching content in English. I also used to teach English (for a couple of months). I recently completed international English proficiency testing : https://www.efset.org/ef-set-50. My level of English is B2 Upper Intermediate according to the Common European Framework of Reference (CEFR).
+
+
 
