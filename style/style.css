@@ -10,10 +10,13 @@ body {
     display: flex;
 }
 
+<<<<<<< HEAD
 .container {
     margin: 0 auto;
 }
 
+=======
+>>>>>>> f9079d2577c1438c90d026c4f670af42621fd6f9
 .header {
     padding-left: 50px;
     height: 40vh;
